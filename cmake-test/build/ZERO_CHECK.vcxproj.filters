@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\osvr-driver\cmake-test\build\CMakeFiles\7bbe25d16b03dfb33cf0adaefeea8236\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{384F59C4-C376-3DB3-BE0F-9D5BE903FD01}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
